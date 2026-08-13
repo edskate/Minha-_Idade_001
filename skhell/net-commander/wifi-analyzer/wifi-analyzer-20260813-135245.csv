@@ -1,0 +1,2 @@
+timestamp,iface,mac,ssid,bssid,channel,txRateMbps,rxRateMbps,linkQuality,signalDbm,rxBytes,txBytes,ipAddr,neighborDetails,neighborBars,neighborSSIDs,connectedTimeSec
+"1:52:44 PM","Wi-Fi 2","f2:1e:95:8e:49:61","EDY","14:ca:56:81:26:57","1","39","39","80/100","-44","0","0","192.168.1.51/255.255.255.0","[object Object]","[object Object]","EDY","196"
