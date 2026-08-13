@@ -1,0 +1,208 @@
+{
+    "extConfig": {
+        "enums": [
+            {
+                "name": "ActionType",
+                "values": [
+                    "Building",
+                    "Codding",
+                    "Debugging",
+                    "Documenting",
+                    "Idle",
+                    "Testing"
+                ]
+            },
+            {
+                "name": "SessionState",
+                "values": [
+                    "Ongoing",
+                    "Idle",
+                    "Ended"
+                ]
+            }
+        ]
+    },
+    "data": [
+        {
+            "config": false,
+            "user": "edskate",
+            "dailySessions": [
+                {
+                    "date": "Wed Aug 12 2026",
+                    "sessions": [
+                        {
+                            "sessionInfo": {
+                                "id": "9c8fcff2-41c4-4707-ab24-15662b6081b8",
+                                "duration": 132895,
+                                "idle": 7187088,
+                                "state": "Idle",
+                                "durations": [
+                                    {
+                                        "id": "42faae21-69a9-4470-bdd7-3f0887855472",
+                                        "state": "Idle",
+                                        "begin": 1786582968655,
+                                        "end": 1786582968655,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "e9160c42-0f93-454d-85b8-b060cebddf9f",
+                                        "state": "Ongoing",
+                                        "begin": 1786582892392,
+                                        "end": 1786582968655,
+                                        "duration": 76263
+                                    },
+                                    {
+                                        "id": "bdff8d20-a405-4a6e-802c-716ec1ec5d8c",
+                                        "state": "Idle",
+                                        "begin": 1786582781430,
+                                        "end": 1786582892392,
+                                        "duration": 110962
+                                    },
+                                    {
+                                        "id": "4ce5640e-4f64-4f17-846d-2d4139afff18",
+                                        "state": "Ongoing",
+                                        "begin": 1786582760277,
+                                        "end": 1786582781430,
+                                        "duration": 21153
+                                    },
+                                    {
+                                        "id": "6803ac23-0981-4f10-9b43-1288ea25c145",
+                                        "state": "Idle",
+                                        "begin": 1786582717115,
+                                        "end": 1786582760277,
+                                        "duration": 43162
+                                    },
+                                    {
+                                        "id": "3130cfe9-58e4-4e9a-86cf-073b62c7355c",
+                                        "state": "Ongoing",
+                                        "begin": 1786582681635,
+                                        "end": 1786582717114,
+                                        "duration": 35479
+                                    }
+                                ],
+                                "filesExt": [
+                                    "",
+                                    ".vscode-chat-customizations-evaluations-#1-Chat Customizations Evaluations",
+                                    ".html"
+                                ]
+                            },
+                            "actionType": "Idle"
+                        }
+                    ]
+                },
+                {
+                    "date": "Thu Aug 13 2026",
+                    "sessions": [
+                        {
+                            "sessionInfo": {
+                                "id": "9c8fcff2-41c4-4707-ab24-15662b6081b8",
+                                "duration": 355480,
+                                "idle": 20687175,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "27c6e924-63eb-4e4c-a734-f87af1f275a8",
+                                        "state": "Ongoing",
+                                        "begin": 1786603365262,
+                                        "end": 1786603365262,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "cdd0859a-6417-4b94-9597-fdc37df13256",
+                                        "state": "Idle",
+                                        "begin": 1786603214944,
+                                        "end": 1786603365262,
+                                        "duration": 150318
+                                    },
+                                    {
+                                        "id": "684ef4f7-b7a9-43c2-9164-fb3f5b914835",
+                                        "state": "Ongoing",
+                                        "begin": 1786603213110,
+                                        "end": 1786603214944,
+                                        "duration": 1834
+                                    },
+                                    {
+                                        "id": "e0ac3860-49dd-4472-a262-b23706eb3147",
+                                        "state": "Idle",
+                                        "begin": 1786603176964,
+                                        "end": 1786603213110,
+                                        "duration": 36146
+                                    },
+                                    {
+                                        "id": "424826a7-7adb-471a-ae71-6a853b820163",
+                                        "state": "Ongoing",
+                                        "begin": 1786603080607,
+                                        "end": 1786603176963,
+                                        "duration": 96356
+                                    },
+                                    {
+                                        "id": "967c8a73-c9fa-4854-9321-f27477f45927",
+                                        "state": "Idle",
+                                        "begin": 1786603069131,
+                                        "end": 1786603080607,
+                                        "duration": 11476
+                                    },
+                                    {
+                                        "id": "531e8418-e83d-44df-9feb-105927a7c489",
+                                        "state": "Ongoing",
+                                        "begin": 1786602948286,
+                                        "end": 1786603069131,
+                                        "duration": 120845
+                                    },
+                                    {
+                                        "id": "42faae21-69a9-4470-bdd7-3f0887855472",
+                                        "state": "Idle",
+                                        "begin": 1786582968655,
+                                        "end": 1786602948286,
+                                        "duration": 19979631
+                                    },
+                                    {
+                                        "id": "e9160c42-0f93-454d-85b8-b060cebddf9f",
+                                        "state": "Ongoing",
+                                        "begin": 1786582892392,
+                                        "end": 1786582968655,
+                                        "duration": 76263
+                                    },
+                                    {
+                                        "id": "bdff8d20-a405-4a6e-802c-716ec1ec5d8c",
+                                        "state": "Idle",
+                                        "begin": 1786582781430,
+                                        "end": 1786582892392,
+                                        "duration": 110962
+                                    },
+                                    {
+                                        "id": "4ce5640e-4f64-4f17-846d-2d4139afff18",
+                                        "state": "Ongoing",
+                                        "begin": 1786582760277,
+                                        "end": 1786582781430,
+                                        "duration": 21153
+                                    },
+                                    {
+                                        "id": "6803ac23-0981-4f10-9b43-1288ea25c145",
+                                        "state": "Idle",
+                                        "begin": 1786582717115,
+                                        "end": 1786582760277,
+                                        "duration": 43162
+                                    },
+                                    {
+                                        "id": "3130cfe9-58e4-4e9a-86cf-073b62c7355c",
+                                        "state": "Ongoing",
+                                        "begin": 1786582681635,
+                                        "end": 1786582717114,
+                                        "duration": 35479
+                                    }
+                                ],
+                                "filesExt": [
+                                    "",
+                                    ".vscode-chat-customizations-evaluations-#1-Chat Customizations Evaluations",
+                                    ".html"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
